@@ -33,8 +33,7 @@ Installation
 
 1. Clone the Repository:
 
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/saiitejaa/REAL-TIME-OBJECT-DETECTION.git
 
 
 2. Install Dependencies:
